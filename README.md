@@ -46,7 +46,7 @@ outlookcal/
 
 | Composant | Version minimale |
 |-----------|-----------------|
-| GLPI | 10.0.0 |
+| GLPI | 11.0.0 |
 | PHP | 7.4 |
 | Extension PHP | cURL |
 | Microsoft 365 | Tenant avec app Entra enregistrée |
