@@ -172,4 +172,4 @@ Le plugin détermine l'adresse email Outlook du technicien dans cet ordre :
 ## Auteur
 
 **CharlyTissot**  
-Plugin sous licence GPL v2
+Plugin sous licence GPL v3.0
